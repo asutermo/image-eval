@@ -3,7 +3,7 @@ insightface==0.7.3
 lpips==0.1.4
 networkx==3.1
 numpy
-onnxruntime==1.16.3  # required by insightface
+onnxruntime>=1.16.3  # required by insightface
 openai-clip==1.0.1
 piq==0.8.0
 pytorch-lightning==2.0.8
